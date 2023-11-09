@@ -4,6 +4,75 @@
   
     
     <entry>
+      <title>TvBox源接口</title>
+      <link href="/2023/11/09/TvBox%E6%BA%90%E6%8E%A5%E5%8F%A3/"/>
+      <url>/2023/11/09/TvBox%E6%BA%90%E6%8E%A5%E5%8F%A3/</url>
+      
+        <content type="html"><![CDATA[<p>http:&#x2F;&#x2F;饭太硬.top&#x2F;tv<br>http:&#x2F;&#x2F;肥猫.love<br><a href="https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json">https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json</a><br><a href="https://pastebin.com/raw/5NHaxyGR">https://pastebin.com/raw/5NHaxyGR</a><br><a href="http://yydsys.top/duo/ali">http://yydsys.top/duo/ali</a><br><a href="https://gh.t4tv.hz.cz/newtang.bmp">https://gh.t4tv.hz.cz/newtang.bmp</a><br><a href="https://tvbox.cainisi.cf/">https://tvbox.cainisi.cf</a><br><a href="http://xhww.fun:63/%E5%B0%8F%E7%B1%B3/DEMO.json">http://xhww.fun:63/小米/DEMO.json</a><br><a href="http://home.jundie.top:81/top98.json">http://home.jundie.top:81/top98.json</a><br><a href="https://ghproxy.com/https://raw.githubusercontent.com/lm317379829/PyramidStore/main/py.json">https://ghproxy.com/https://raw.githubusercontent.com/lm317379829/PyramidStore/main/py.json</a>    </p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>SFP光模块</title>
+      <link href="/2023/11/09/SFP%E5%85%89%E6%A8%A1%E5%9D%97/"/>
+      <url>/2023/11/09/SFP%E5%85%89%E6%A8%A1%E5%9D%97/</url>
+      
+        <content type="html"><![CDATA[<h2 id="SFP端口是什么？是光纤口吗？有什么用？"><a href="#SFP端口是什么？是光纤口吗？有什么用？" class="headerlink" title="SFP端口是什么？是光纤口吗？有什么用？"></a>SFP端口是什么？是光纤口吗？有什么用？</h2><p>SFP端口是一种实现<strong>千兆位光电信号转换</strong>的接口，其主要作用是用于<strong>信号转换</strong>和<strong>数据传输</strong>，其端口符合IEEE 802.3ab标准（如1000BASE-T），最大传输速率可达1000 Mbps（一些交换机的SFP端口支持100&#x2F;1000Mbps自适应），因此也被称为千兆光纤口。</p><span id="more"></span><h2 id="SFP端口有何优势？常见哪些网络设备上？"><a href="#SFP端口有何优势？常见哪些网络设备上？" class="headerlink" title="SFP端口有何优势？常见哪些网络设备上？"></a>SFP端口有何优势？常见哪些网络设备上？</h2><p>SFP端口属于<strong>热插拔</strong>的I&#x2F;O接口，具备较强的灵活性，适用于多种网络设备，如，SFP光模块、千兆交换机等，可与1000BASE-SX，1000BASE-LX&#x2F;LH，1000BASE-ZX或1000BASE-BX10-D&#x2F;U的端口进行交换。另外，SFP端口可向下兼容，支持10&#x2F;100&#x2F;1000Mbps。简而言之，SFP端口具备4大优势：</p><p>● 支持热插拔，能减少安装维护管理时间；</p><p>● 端口具备灵活性；</p><p>● 坚固的设计增强了可靠性；</p><p>● 兼容10&#x2F;100&#x2F;1000Mbps。</p><h3 id="1、SFP光模块的SFP端口"><a href="#1、SFP光模块的SFP端口" class="headerlink" title="1、SFP光模块的SFP端口"></a>1、SFP光模块的SFP端口</h3><p>SFP光模块是一种将千兆位电信号转换为光信号的接口器件,是业界标准的小型可插拔的千兆光收发一体模块。SFP光模块的两端：一端为SFP端口，主要插在交换机、路由器、媒体转换器等网络设备上，将电信号转化为光信号进行传输；另一端为LC接口或者RJ45接口，主要用来连接光纤或网线进行数据传输。</p><p><img src="/images/pasted-96.png" alt="upload successful"></p><h3 id="2、千兆交换机的SFP端口"><a href="#2、千兆交换机的SFP端口" class="headerlink" title="2、千兆交换机的SFP端口"></a>2、千兆交换机的SFP端口</h3><p>千兆交换机的SFP端口可以通过连接各种不同类型的光纤（例如单模和多模光纤）和网络跳线（例如Cat5e和Cat6）用来扩展整个网络的交换功能，不过千兆交换机的SFP端口在使用前必须先插入SFP光模块，然后再使用光纤跳线或网络跳线进行数据传输。现如今市面上所有企业级交换机都至少具备两个SFP端口，可通过光纤或网络跳线等线缆的连接构建不同建筑物、楼层或区域之间的环形或星型网络拓扑结构。</p><p><img src="/images/pasted-97.png" alt="upload successful"></p><h2 id="SFP端口与RJ45端口有什么区别？"><a href="#SFP端口与RJ45端口有什么区别？" class="headerlink" title="SFP端口与RJ45端口有什么区别？"></a>SFP端口与RJ45端口有什么区别？</h2><p>虽然SFP端口和RJ45端口的最大传输速率均为1000Mbps，但两者之间存在着些许区别。</p><h3 id="1、应用不同"><a href="#1、应用不同" class="headerlink" title="1、应用不同"></a>1、应用不同</h3><p>如，交换机上SFP端口需要搭配SFP光模块，使用光纤跳线实现数据传输；而交换机上的RJ45端口可直接通过网线实现数据传输。</p><h3 id="2、传输距离不同"><a href="#2、传输距离不同" class="headerlink" title="2、传输距离不同"></a>2、传输距离不同</h3><p>RJ45端口主要通过网线进行数据传输，其最大传输距离为网线的最大传输距离，即100米；而SFP端口需要使用SFP光模块连接光纤跳线进行传输，其最大传输距离为SFP光模块的最大传输距离，即160米。</p><p><img src="/images/pasted-98.png" alt="upload successful"></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 网络 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 网络 </tag>
+            
+            <tag> 交换机 </tag>
+            
+            <tag> 路由器 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>小学数学公式大全</title>
+      <link href="/2023/11/08/%E5%B0%8F%E5%AD%A6%E6%95%B0%E5%AD%A6%E5%85%AC%E5%BC%8F%E5%A4%A7%E5%85%A8/"/>
+      <url>/2023/11/08/%E5%B0%8F%E5%AD%A6%E6%95%B0%E5%AD%A6%E5%85%AC%E5%BC%8F%E5%A4%A7%E5%85%A8/</url>
+      
+        <content type="html"><![CDATA[<p>小学数学公式大全</p><span id="more"></span><p><img src="/images/pasted-87.png" alt="upload successful"></p><p><img src="/images/pasted-88.png" alt="upload successful"></p><p><img src="/images/pasted-89.png" alt="upload successful"></p><p><img src="/images/pasted-90.png" alt="upload successful"></p><p><img src="/images/pasted-91.png" alt="upload successful"></p><p><img src="/images/pasted-92.png" alt="upload successful"></p><p><img src="/images/pasted-93.png" alt="upload successful"></p><p><img src="/images/pasted-94.png" alt="upload successful"></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 小学 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 数学 </tag>
+            
+            <tag> 小学 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>小学1年纪语文识字表</title>
       <link href="/2023/11/07/%E5%B0%8F%E5%AD%A61%E5%B9%B4%E7%BA%AA%E8%AF%AD%E6%96%87%E8%AF%86%E5%AD%97%E8%A1%A8/"/>
       <url>/2023/11/07/%E5%B0%8F%E5%AD%A61%E5%B9%B4%E7%BA%AA%E8%AF%AD%E6%96%87%E8%AF%86%E5%AD%97%E8%A1%A8/</url>
